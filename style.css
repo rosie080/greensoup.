@@ -1,6 +1,15 @@
 body {
- background-image: url(https://i.pinimg.com/564x/41/b9/80/41b98032fc7b1f001c9432a885381365.jpg);  
+  background-image: url(https://i.pinimg.com/564x/41/b9/80/41b98032fc7b1f001c9432a885381365.jpg);
 background-size: cover;
+background-repeat: no repeat;
+}
+
+.image-container {
+  width: 200px; 
+  height: 200px; 
+  display: flex;
+  align-items: center;
+}
 }
 
 h1 {
